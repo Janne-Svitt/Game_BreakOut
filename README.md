@@ -1,3 +1,3 @@
-# Game_BreakOut
+# Game_Breakout
 
 Game with vanilla TypeScript
